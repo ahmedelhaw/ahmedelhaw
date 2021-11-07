@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed
 - 👀 I’m interested in Python, AWS Serverless, WebGL and web development
-- 🌱 I’m currently learning how to be an effective writer/blogger
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on demos
 
 
