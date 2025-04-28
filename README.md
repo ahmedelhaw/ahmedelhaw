@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ahmed
 - 👀 I’m interested in Python, AWS Serverless, WebGL and web development
-- 🌱 I’m currently learning React.
+- 🌱 I’m am Ok with React, NodeJS, etc...
+- I do Smart Home, devices, low voltage, etc...
 - 💞️ I’m looking to collaborate on demos
 
 
